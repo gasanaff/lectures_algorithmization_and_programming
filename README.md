@@ -1,1 +1,1 @@
-# lectures_algorithmization_and_programming
+# Лекции по основам алгоритмизации и программирования
